@@ -6,6 +6,13 @@ This repository contains my personal solutions to LeetCode problems, organized b
 
 The problems are categorized into folders based on topic or difficulty (or both), and each solution includes clean code with comments (where needed). Most solutions are written in **C++**.
 
+The problems are categorized into folders based on purpose.
+For daily problems, solutions are stored in the LC_Daily/ folder and named using the format:
+
+YYYY-MM-DD_Qn.cpp
+
+Each file contains a clean, commented C++ solution.
+
 ## ✅ Topics Covered
 
 - Arrays & Strings  
