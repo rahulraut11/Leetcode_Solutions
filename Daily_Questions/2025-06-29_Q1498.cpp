@@ -8,7 +8,6 @@ public:
         for (int i = 1; i < n; ++i) {
             power[i] = (power[i - 1] * 2) % mod;
         }
-
         int left = 0, right = n - 1, result = 0;
 
         while (left <= right) {
